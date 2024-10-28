@@ -1,0 +1,35 @@
+[
+    {
+        "question": "1. What is the core purpose of data science?",
+        "options": [
+            "a) To collect data from various sources.",
+            "b) To analyze data and extract meaningful insights.",
+            "c) To store and manage large datasets.",
+            "d) To create complex visualizations of data."
+        ],
+        "correct_answer": "b",
+        "explanation": "The text states that data science is about transforming raw data into actionable intelligence, highlighting the focus on extracting insights and patterns."
+    },
+    {
+        "question": "2. What is a key component of data science that helps automate predictions?",
+        "options": [
+            "a) Data cleaning",
+            "b) Statistical analysis",
+            "c) Machine learning",
+            "d) Data visualization"
+        ],
+        "correct_answer": "c",
+        "explanation": "The passage describes machine learning algorithms as crucial for automating predictive analytics, making it the key component mentioned in the question."
+    },
+    {
+        "question": "3. How does data science benefit organizations?",
+        "options": [
+            "a) By providing a platform for data storage.",
+            "b) By simplifying complex datasets.",
+            "c) By helping them make data-driven decisions.",
+            "d) By providing insights into customer preferences."
+        ],
+        "correct_answer": "c",
+        "explanation": "The text highlights how data science enables industries to make data-driven decisions, ultimately leading to better outcomes and efficiency. While other options might be indirectly related, this is the primary benefit emphasized in the passage."
+    }
+]
